@@ -170,7 +170,7 @@ text-decoration: none;
     z-index: -1;
     position: absolute;
     display: flex;   
-    background: url(./image/box-1.png);
+    background: url(./image/box-1.jpg);
     background-position: center;
     background-size: cover;
     width: 90%;
