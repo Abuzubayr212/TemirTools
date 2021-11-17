@@ -1,0 +1,80 @@
+* {
+        margin: 0;
+        padding: 0;
+        text-transform: capitalize;
+        transition: 0.2s linear;
+    }
+    html {
+        width: 100%;
+    }
+    
+    
+        body{
+            
+        background: url(seriy.jpg);
+        width: 100%;
+        
+        margin: 0 auto;
+        padding: 0;
+        font-family: cambria;
+        height: 100vh;
+    
+    }
+    .trans{
+        position: absolute;
+        margin-top: -70px;
+        margin-left: 80%;
+    }
+    
+    .main {
+        position: absolute;
+        
+        
+    }
+    .logo {
+        width: 150px;
+        height: 60px;
+        margin-top: 25px;
+        margin-left: 50%;
+        cursor: pointer;
+        
+        
+        
+    }
+    .nav-1 button {
+            position: absolute;
+        font-weight: 600;
+        height: 40px;
+        background: none;
+        border: none;
+        color: #fba50a;
+        cursor: pointer;
+        right: 10%;
+        font-size: 20px;
+        top: 30px;
+        
+    } 
+    
+    .nav-1 button:hover{
+        color: white;
+        border-bottom: 1px solid black;
+        padding-bottom: 0.5rem;
+        text-shadow: 3px 3px 4px black;
+    }
+    .company-1 a{
+        text-decoration: none;
+        color: #fba50a;
+    }
+    .company-1 a:hover{
+        color: white;
+        
+        
+    }
+    .company-1 button:hover{
+        color: white !important;
+        
+        
+    }
+    
+    
+   
